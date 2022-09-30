@@ -1,0 +1,14 @@
+* {
+  font-family: "Fira Sans", sans-serif;
+  width: 85%;
+  margin: 1%;
+}
+
+.steps, .steps ol li {
+  font-family: "Fira Mono", sans-serif;
+}
+
+.steps {
+  margin-top: 20px;
+  border: 4px solid purple;
+}
